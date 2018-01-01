@@ -1,8 +1,28 @@
-body {
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/b6/9e/2e/b69e2ec6bef726309013a16376d7e30f.jpg");
+/* body {
+  background-image: url("https://c1.staticflickr.com/3/2825/12794381313_983303c073_b.jpg");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+} */
+
+body, html {
+  height: 100%;
 }
 
-.homeWelcome { 
-  color: white;
-  text-align: center;
+.bg { 
+  /* The image used */
+  background-image: url("http://eskipaper.com/images/awesome-mountain-valley-1.jpg");
+  background-size: cover;
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar {
+  position: fixed;
+  
 }
