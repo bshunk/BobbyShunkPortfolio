@@ -1,0 +1,28 @@
+/* body {
+  background-image: url("https://c1.staticflickr.com/3/2825/12794381313_983303c073_b.jpg");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+} */
+
+body, html {
+  height: 100%;
+}
+
+.bg { 
+  /* The image used */
+  background-image: url("http://eskipaper.com/images/awesome-mountain-valley-1.jpg");
+  background-size: cover;
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar {
+  position: fixed;
+  
+}
