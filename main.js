@@ -1,4 +1,4 @@
 "use strict";
 
-console.log("You beautiful bitch!");
+console.log("You silver-tongued Devil!");
 
